@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="waters_info1">judul
+        <item>Ini adalah minuman merk Ades</item>
+        <item>Ini adalah minuman merk Amidis</item>
+        <item>Ini adalah minuman merk Aqua</item>
+        <item>Ini adalah minuman merk Cleo</item>
+        <item>Ini adalah minuman merk Club</item>
+        <item>Ini adalah minuman merk Equil</item>
+        <item>Ini adalah minuman merk Evian</item>
+        <item>Ini adalah minuman merk Leminerale</item>
+        <item>Ini adalah minuman merk Nestle</item>
+        <item>Ini adalah minuman merk pristine</item>
+        <item>Ini adalah minuman merk Vit</item>
+    </string-array>
+</resources>

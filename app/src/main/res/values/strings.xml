@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TSARASYAFIERA_1202150275_MODUL3</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="button_login">Login</string>
+
+    <string-array name="waterstitles">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Leminerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="waters_info">
+        <item>Ini adalah minuman merk Ades</item>
+        <item>Ini adalah minuman merk Amidis</item>
+        <item>Ini adalah minuman merk Aqua</item>
+        <item>Ini adalah minuman merk Cleo</item>
+        <item>Ini adalah minuman merk Club</item>
+        <item>Ini adalah minuman merk Equil</item>
+        <item>Ini adalah minuman merk Evian</item>
+        <item>Ini adalah minuman merk Leminerale</item>
+        <item>Ini adalah minuman merk Nestle</item>
+        <item>Ini adalah minuman merk pristine</item>
+        <item>Ini adalah minuman merk Vit</item>
+    </string-array>
+
+    <array name="waters_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+</resources>
